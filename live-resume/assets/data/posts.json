@@ -1,0 +1,139 @@
+[
+    {
+        "thumbnail": "../../assets/posts/post-11-03-2019.jpg",
+        "http": "https://www.linkedin.com/pulse/anti-traversing-2d-array-formula-guilherme-borges-bastos/",
+        "date": "11-03-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "The anti-traversing 2D Array formula.",
+                "description": "Have you ever thought about the <b>mathematical relation</b> between the <i>columns</i> and <i>rows</i> of a bidimensional array <i>(2d matrix)</i>? This data structure hides a <b>data location formula</b> that helped me to avoid the <i>time complexity of O(n²)</i>, which is a terrible scenario, turning it into a <i>constant time complexity - O(1)</i>. A full explanation, with real test cases and Unit Tests are waiting for you."
+            },
+            {
+                "language": "pt",
+                "title": "A fórmula de matriz 2D anti-deslocamento.",
+                "description": "Você já pensou na <b>relação matemática</b> entre as<i> colunas</i> e as <i>linhas</i> de uma matriz bidimensional <i>(matriz 2d)</i>? Essa estrutura de dados oculta uma <b>fórmula de localização de dados</b> que me ajudou a evitar a <i>complexidade de tempo de O(n²)</i>, que é um cenário péssimo, transformando-a em uma <i>complexidade do tempo constante - O(1)</i>. Uma explicação completa, com casos de teste reais e testes de unidade, está esperando por você."
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/posts/cxx.jpg",
+        "http": "https://github.com/AnujaKoralage/WholeSalePOSWithSpringWebMvc",
+        "date": "11-15-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "POINT OF PURCHASING MANAGEMENT SYSTEM FOR WHOLE SALE SUPER MARKET",
+                "description": "This is a Point of Purchasing Management System for the supermarket. This system development based on layered architecture, Angular 8, and Spring Framework. I used Spring Data JPA to reduce the complexity of the data layer and used Spring Web MVC to develop backend. This application backend works as a REST API. MAVEN used as a project management tool. This project was developed under low cohesion and loose coupling."
+            }
+        ] ,
+      "technologies": [
+        "HTML", "CSS", "JS/JQuery", "Angular 8", "Bootstrap", "Spring Boot", "Spring Data JPA", "REST Web Services", "MySql", "Tomcat", "Maven", "Layered Architecture"
+      ]
+    },
+    {
+        "thumbnail": "../../assets/posts/dss.jpg",
+        "http": "https://github.com/AnujaKoralage/WholeSalePOSwithSpringBOOT",
+        "date": "07-10-2016",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "SELLING POINT SYSTEM FOR WHOLE SALE SUPER MARKET",
+                "description": "This is a simple point of sale system (POS) for the supermarket. This system development based on layered architecture, and Spring Framework. I used Spring Data JPA to reduce the complexity of the data layer and used Spring Boot to develop backend. This application backend works as a REST API. MAVEN used as a project management tool. This project was developed under low cohesion and loose coupling."
+            }
+        ],
+      "technologies": [
+        "HTML", "CSS", "JS/JQuery", "Ajax", "Spring Boot", "Spring Data JPA", "REST Web Services", "MySql", "Tomcat", "Maven", "Layered Architecture"
+      ]
+    },
+    {
+        "thumbnail": "../../assets/posts/dss.jpg",
+        "http": "https://github.com/AnujaKoralage/WholeSalePOSWithSpringWebMvc",
+        "date": "11-07-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "POINT OF SALE SYSTEM FOR WHOLE SALE SUPER MARKET",
+                "description": "This is a simple point of sale system (POS) for the supermarket. This system development based on layered architecture, and Spring Framework. I used Spring Data JPA to reduce the complexity of the data layer and used Spring Web MVC to develop backend. This application backend works as a REST API. MAVEN used as a project management tool. This project was developed under low cohesion and loose coupling."
+            }
+        ],
+      "technologies": [
+        "HTML", "CSS", "JS/JQuery", "Ajax", "Spring Web MVC", "Spring Data JPA", "RESTful", "MySql", "Tomcat", "Maven", "Layered Architecture"
+      ]
+    },
+    {
+        "thumbnail": "../../assets/posts/post-06-18-2016.jpg",
+        "http": "https://github.com/AnujaKoralage/WholeSaleMavenSpringHibernate",
+        "date": "10-18-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "SELLING POINT SYSTEM FOR WHOLE SALE SUPER MARKET",
+                "description": "This is a simple point of sale system (POS) for the supermarket. This system development based on layered architecture, and Spring Framework. I used Hibernate to reduce the complexity of the data layer and used Spring to develop backend. MAVEN used as a project management tool. This project was developed under low cohesion and loose coupling."
+            }
+        ],
+      "technologies": [
+        "JavaFX", "Spring Core", "Hibernate", "MySql", "Maven", "Layered Architecture", "Design patterns", "JavaFx", "Jasper"
+      ]
+    },
+    {
+        "thumbnail": "../../assets/posts/spring.jpg",
+        "http": "https://github.com/AnujaKoralage/WholeSaleMavenSpringHibernate",
+        "date": "09-04-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "SALES OUTLET SYSTEM FOR WHOLE SALE SUPER MARKET",
+                "description": "This is a Sales Outlet System (SOS) for the supermarket. This system development based on layered architecture, and Spring Framework. I used Hibernate to reduce the complexity of the data layer and used Spring to develop backend. MAVEN used as a project management tool. This project was developed under low cohesion and loose coupling."
+            }
+        ],
+      "technologies": [
+        "JavaFX", "Spring Core", "Hibernate", "MySql", "Maven", "Layered Architecture", "Design patterns", "JavaFx", "Jasper"
+      ]
+    },
+    {
+        "thumbnail": "../../assets/posts/slickpos-ipad.png",
+        "http": "https://github.com/AnujaKoralage/WholeSaleMavenSpringJPA",
+        "date": "08-28-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "RETAIL OUTLET SYSTEM FOR BURGER SHOP",
+                "description": "This is a Retail Outlet System for the supermarket. This system development based on layered architecture, and Spring Framework. I used the Java Persistence API to reduce the complexity of the data layer and used Spring to develop backend. MAVEN used as a project management tool. This project was developed under low cohesion and loose coupling."
+            }
+        ],
+      "technologies": [
+        "JPA", "Spring Core", "JDBC", "MySql", "Maven", "Layered Architecture", "Design patterns", "JavaFx"
+      ]
+    },
+    {
+        "thumbnail": "../../assets/posts/liq.jpg",
+        "http": "https://github.com/AnujaKoralage/LiquorStockManagment",
+        "date": "07-14-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "POINT OF SALE SYSTEM FOR LIQUOR STOCK MANAGEMENT",
+                "description": "This is a simple point of sale system (POS) for Liquor Stock Management. This system development based on layered architecture, and various design patterns. I used DAO design pattern for the data layer. MAVEN used as a project management tool. This project was developed under low cohesion and loose coupling. Front end side developed using Java-FX."
+            }
+        ],
+      "technologies": [
+        "JAVA-FX", "Jasper Reports", "JDBC", "MySql", "Maven", "Layered Architecture", "Design patterns"
+      ]
+    },
+    {
+        "thumbnail": "../../assets/posts/concept.gif",
+        "http": "https://github.com/AnujaKoralage/SimpleConnectionPool",
+        "date": "06-21-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Simple Connection Pool",
+                "description": "A pool is a logical holder of many instances of an object. Because pools are kept completely initialized and ready to use, you effectively can grab an object from one, use the object to get your work/task executed, and then return the object to the pool. Two of the most common objects that are held in pools are database connections and threads."
+            }
+        ],
+      "technologies": [
+        "Concurrency Programming", "Java", "JDBC"
+      ]
+    }
+]

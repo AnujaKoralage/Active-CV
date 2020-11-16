@@ -1,0 +1,43 @@
+{
+    "internationalizations": [
+        {
+            "language": "en",
+            "description": "I consider myself a creative thinker and a problem solver who is passionate about solving real-world problems. I have a keen interest to be exposed to the bleeding edge of technology to innovate with the community as well as to build effective and reliable products fast. I have worked with many technologies that scale from the server-side to the client-side, from the circuit level to the OS to the application level. I am passionate about developing applications that make technological muggle people's lives easier. In my undergraduate life and industrial career, I have developed a pile of software solutions and performance-enhancing developments.<br><br>In my undergraduate career, I have developed full function many more monolithic application and microservice architecture based application so on. Also when I was working in a previous company I have done a lot of backends and front-end implementation and performance-enhancing development. And also I have worked with e-commerce application systems like Shopify and WordPress.<br><br>Nowadays, I keep seeking new skills, learning, sharing my humble knowledge as much as possible, and exploring new technological dimensions."
+        }
+    ],
+    "medias": [
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/anuja-koralage-a2550a143/"
+        },
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/AnujaKoralage"
+        },
+        {
+            "icon": "stack-overflow",
+            "title": "Facebook",
+            "http": "https://www.facebook.com/guilherme.borgesbastos"
+        }
+    ],
+    "hobbies": [
+        {
+            "icon": "gamepad",
+            "title": "Gaming"
+        },
+        {
+            "icon": "dumbbell",
+            "title": "Gym"
+        },
+        {
+            "icon": "film",
+            "title": "Film Scripting"
+        },
+        {
+            "icon": "music",
+            "title": "Vocalist"
+        }
+    ]
+}

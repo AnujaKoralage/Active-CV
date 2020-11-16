@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "08-05-2019",
+        "endAt": "11-15-2020",
+        "companyName": "MERCS Technologies",
+        "website": "https://msalgrp.com/mercs-tech.html",
+        "logo": "../../assets/template/experience/logo/mercs-tech.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Sri Jayawardenepura Kotte",
+                "country": "Sri Lanka",
+                "role": "Software Engineer",
+                "description": "<b>MERCS Technologies</b> consists of a set of bright like-minded individuals who are passionate about technology and innovation. At MERCS strive to create a free and open culture where individuals are encouraged to express themselves and try out new things. MERCS provides IT solutions specializing in regulated and non-regulated iGaming markets. MERCS has provided service to a number of companies based in the Channel Islands, UK, India, Canada, and Sri Lanka.<br><br> When I was there I have done so many backend and frontend implementations. I have developed the front-end and backend aspects of the implementation of a real-time trivia gaming system. I have hands-on experience with development testing, bug fixing new feature implementation, and Performance Enhancing development. Also, I have done some implementations using HTML and CSS included with mobile responsiveness."
+            }
+        ],
+        "technologies": [
+          "REST", "Spring Core", "Spring MVC", "Spring Boot", "Spring Security", "Hibernate", "Typescript", "HTML", "CSS3", "Javascript", "jQuery", "SQL", "MySQL", "PostgreSQL", "Flutter", "GIT", "BitBucket", "Jira"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn",
+                "http": "https://www.linkedin.com/company/msptechnologies/about/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+      "startAt": "04-01-2019",
+      "endAt": "07-05-2019",
+        "companyName": "Institute of Software Engineering",
+        "website": "https://ijse.lk/",
+        "logo": "../../assets/template/experience/logo/ijse.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Pandura",
+                "country": "Sri Lanka",
+                "role": "Trainee Full-stack Software Engineer",
+                "description": "<b>Institute of Software Engineering</b> The International Journal of Software Engineering (IJSE) provides a forum for archiving and disseminating state-of-the-art and state-of-the-practice in all areas of software engineering. IJSE is a biannual refereed journal published by the Software Engineering Competence Center (SECC) of the Information Technology Industry Development  Agency (ITIDA). <br><br> As a Software Engineer Trainee in IJSE, I have done so many projects that contain industry-level development process. I have hands-on experience in desktop application development, Complex RESTful backend development, Web Development, Mobile Development."
+            }
+        ],
+        "technologies": [
+            "Java OOP", "JavaFX", "Monolithic/ Layered/ Microservice Architectures", "Design Patterns", "Spring Core", "Spring MVC", "Spring Boot", "RESTful Web Services", "SOAP", "HTML", "CSS", "Javascript", "Ajax", "JQuery", "Typescript", "SCSS", "Socket Programming", "Concurrency Programming", "MySql", "Database Programming", "Web Security", "Hibernate", "JPA", "AngularJS", "Maven", "GIT"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn IJSE",
+                "http": "https://www.linkedin.com/company/institute-of-software-engineering/?originalSubdomain=lk"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook IJSE",
+                "http": "https://www.facebook.com/ijse.lk"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/rio.jpg"
+    }
+]
