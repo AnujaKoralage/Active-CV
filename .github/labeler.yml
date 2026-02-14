@@ -1,0 +1,12 @@
+# Configuration for actions/labeler
+
+frontend:
+- src/**/*
+testing:
+- e2e/**/*
+- src/**/*.spec.ts
+documentation:
+- README.md
+- PROMPT.md
+- markdown/**/*
+- .github/**/*
