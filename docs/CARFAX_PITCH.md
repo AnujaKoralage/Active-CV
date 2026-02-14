@@ -18,10 +18,12 @@ I am launching **Carfax**.
 Carfax is designed to redefine the "Old Money" aesthetic for a global audience, starting with a strategic foothold in Sri Lanka. We are capturing the essence of timeless, sophisticated, and understated elegance—the kind that doesn't scream for attention but commands the room.
 
 ### Phase 1: The Foundation
-We are launching with a Women’s Office Wear line. The palette is strictly curated: Black, White, and heritage tones like Deep Navy, Cream, and Camel. In a market saturated with fleeting trends, Carfax offers the "uniform of the high-achiever." We are positioning this in the high-margin "Masstige" tier—accessible luxury that maintains the prestige of a high-end house by leveraging the world-class, ethical manufacturing base in Sri Lanka.
+We are launching with a Women’s Office Wear line. The palette is strictly curated: Black, White, and heritage tones like Deep Navy, Cream, Forest Green, and Camel. In a market saturated with fleeting trends, Carfax offers the "uniform of the high-achiever." We are positioning this in the high-margin "Masstige" tier—accessible luxury that maintains the prestige of a high-end house by leveraging the world-class, ethical manufacturing base in Sri Lanka.
 
-### Phase 2: The Evolution – Quiet Luxury Activewear
-Our growth trajectory leads us into a category currently missing from the market: **"Quiet Luxury Activewear."** This is high-performance gear built with the technical innovation of my past ventures, but reimagined through a bespoke lens. While the garments feature the refinement of premium matte textures, they will carry a bold **Carfax Status Insignia** on the chest or neck—a visible mark of class that signals membership in a global elite.
+### Phase 2: The Evolution – Tailoring and Quiet Luxury Activewear
+Our growth trajectory leads us into two distinct yet complementary categories:
+1.  **Men’s Tailored Items:** Bringing the "Old Money" aesthetic to the modern man with bespoke-quality tailoring.
+2.  **Quiet Luxury Activewear:** This is high-performance gear built with the technical innovation of my past ventures, but reimagined through a bespoke lens. While the garments feature the refinement of premium matte textures, they will carry a bold **Carfax Status Insignia** on the chest or neck—a visible mark of class that signals membership in a global elite.
 
 ### Strategic Roadmap & Logistics
 Why Sri Lanka? It is more than just a home base; it is a logistical fortress. We are currently in the process of vetting top-tier manufacturing partners (including Kuweni and Tranzlife) to ensure a "Garments Without Guilt" certified supply chain from day one. This gives us the speed to market and quality control needed for our 12-month roadmap: an aggressive rollout into **Australia, New Zealand, the USA, and the UK.**
