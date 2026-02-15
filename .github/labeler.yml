@@ -1,0 +1,23 @@
+# Add 'documentation' label to any changes to .md files or files in the markdown directory
+documentation:
+  - '*.md'
+  - 'markdown/**/*'
+
+# Add 'frontend' label to any changes to the src directory
+frontend:
+  - 'src/**/*'
+
+# Add 'infrastructure' label to any changes to the .github directory or root config files
+infrastructure:
+  - '.github/**/*'
+  - 'angular.json'
+  - 'package.json'
+  - 'package-lock.json'
+  - 'tsconfig.json'
+  - 'tsconfig.app.json'
+  - 'tsconfig.spec.json'
+  - 'tsconfig.es5.json'
+  - 'tslint.json'
+  - 'karma.conf.js'
+  - 'browserslist'
+  - 'jenkinsfile'
