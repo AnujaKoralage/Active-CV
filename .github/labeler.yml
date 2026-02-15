@@ -1,0 +1,21 @@
+# Add 'frontend' label to any changes in 'src' directory or any of its subdirectories
+frontend:
+- src/**/*
+
+# Add 'documentation' label to any changes in 'markdown' or 'docs' directories
+documentation:
+- markdown/**/*
+- docs/**/*
+- README.md
+
+# Add 'github-actions' label to any changes in '.github/workflows' directory
+github-actions:
+- .github/workflows/**/*
+
+# Add 'tests' label to any changes in 'e2e' directory
+tests:
+- e2e/**/*
+
+# Add 'devops' label to jenkinsfile
+devops:
+- jenkinsfile
