@@ -3,62 +3,59 @@
 
 ---
 
-## WEEK 1: SOURCING & SCOUTING
+## WEEK 1: SOURCING & LEGAL
 - [ ] Visit Pettah (2nd Cross Street). Identify suppliers with "Export Surplus" Cotton Poplin.
-- [ ] Purchase 3m of "Sample Fabric" for the Shirt and Trouser.
-- [ ] Visit 3 CMT units in Maharagama. Ask for their "Standard of Finish" (Check for French Seams).
-- [ ] Get initial labor quotes for 50 units.
+- [ ] **Legal:** Register Business (BR) and apply for Sri Lanka Export Development Board (EDB) registration.
+- [ ] Visit 3 CMT units in Maharagama. Check for 18 SPI and French Seam capability.
 
-## WEEK 2: PATTERN & TECH PACKS
-- [ ] Hand over your 15 silhouettes (or the selected 2) to a professional pattern maker.
-- [ ] Finalize technical drawings (Tech Packs) with 18 SPI requirement noted.
-- [ ] Order Mother of Pearl and Horn buttons (10% extra for breakage).
+## WEEK 2: LOGISTICS & LOGIC
+- [ ] Contact 2 Logistics Aggregators in Colombo. Negotiate <$25 USD rate for 1kg packages.
+- [ ] Finalize Tech Packs (Shirt & Trouser).
+- [ ] Order MOP/Horn buttons and luxury cardboard boxes.
 
 ## WEEK 3: SAMPLING & FITTING
-- [ ] Oversee the production of the "First Samples" at the chosen CMT house.
-- [ ] Conduct a fitting session with your actor (Tim).
-- [ ] **Check:** Can Tim move/fight in the trousers? Does the shirt collar stay upright?
+- [ ] Oversee production of the "First Samples" at the chosen CMT house.
+- [ ] Conduct fitting session with "Tim" model.
+- [ ] **Check:** Can Tim move/fight in the trousers? Is the collar stiff enough?
 
-## WEEK 4: CORRECTIONS & SIGN-OFF
-- [ ] Apply pattern corrections from the fitting.
-- [ ] Produce "Final Pre-Production Sample" (PPS).
-- [ ] Sign production contract. Pay 30-50% deposit.
+## WEEK 4: THE "VIRTUAL TAILOR" FLOW
+- [ ] Design the "Measurement Verification" email/WhatsApp template.
+- [ ] Draft the "No Returns / Exchange Only" policy for international orders.
+- [ ] Produce Final Pre-Production Sample (PPS).
 
 ## WEEK 5: PRODUCTION KICK-OFF
-- [ ] Deliver bulk fabric to the CMT house.
-- [ ] **Day 1 Inspection:** Visit the factory. Check the first 5 shirts off the line. Measure the SPI.
-- [ ] Start setting up the Shopify store backend (Payments, Shipping zones).
+- [ ] Deliver bulk fabric to CMT house. Pay production deposit.
+- [ ] **Inspection:** Verify SPI on the first 5 units off the line.
+- [ ] Setup Shopify store; configure **PayHere** or **WebxPay** gateway.
 
-## WEEK 6: BRANDING & PACKAGING
-- [ ] Finalize box design (Forest Green/Navy). Order 120 boxes.
-- [ ] Print "Care Labels" with the hidden QR code area.
-- [ ] Begin building the "Origin Ledger" landing page (HTML/CSS).
+## WEEK 6: BRANDING & SENSORY
+- [ ] Print "Care Labels" with QR codes for the Origin Ledger.
+- [ ] **Scent:** Select the signature fragrance for the unboxing experience.
+- [ ] Build the "Origin Ledger" landing page.
 
-## WEEK 7: PRODUCTION QUALITY CONTROL
-- [ ] Visit factory for "Mid-Production" check.
-- [ ] Ensure all loose threads are trimmed.
-- [ ] Take "Behind the Scenes" content of the tailors for the Origin Ledger.
+## WEEK 7: QUALITY CONTROL & SEEDING
+- [ ] Mid-production factory check.
+- [ ] **Seeding:** Finalize list of the "First 5" regional taste-makers.
+- [ ] Prepare shipping labels for seeded units.
 
 ## WEEK 8: CONTENT & COMMERCE
 - [ ] Final edit of "Winter Note" Episode 1.
-- [ ] Professional product photography (Studio).
-- [ ] Professional lifestyle photography (On Location).
-- [ ] Upload products to Shopify.
+- [ ] Professional product photography (Studio & Lifestyle).
+- [ ] Upload final inventory and photos to Shopify.
 
-## WEEK 9: PRE-LAUNCH (WARM UP)
+## WEEK 9: PRE-LAUNCH (THE DEFENSE)
 - [ ] Release Episode 1 on TikTok/IG.
-- [ ] "Join the Carfax Council" - Setup email capture for early access.
-- [ ] Release Episode 2. Tease the "Sovereign Duo" release date.
+- [ ] Send seeded units to the "First 5" influencers.
+- [ ] Test the payment gateway with a $1 USD transaction from abroad.
 
 ## WEEK 10: THE DROP
-- [ ] **Monday:** Final inventory count. Pack the first 10 "Pre-order" boxes.
 - [ ] **Wednesday:** Release Episode 3 ("The Dance").
-- [ ] **Friday 6:00 PM:** Shopify Store Password Removed.
-- [ ] **Saturday:** First batch of shipping.
+- [ ] **Friday 6:00 PM:** Remove store password.
+- [ ] **The Flow:** Trigger "Virtual Tailor" verification for every incoming order before shipping.
 
 ---
 
 ### CRITICAL SUCCESS FACTORS
-- **The 18 SPI Rule:** If the factory drops to 12 SPI, the luxury feel is lost. Do not compromise.
-- **The Fabric Feel:** High-GSM cotton must be crisp. If it feels like a standard school shirt, find better deadstock.
-- **The Narrative Sync:** Ensure the link in your bio is updated the second Episode 3 drops.
+- **The Aggregator Rate:** Do not ship at retail prices; it kills the margin.
+- **The Measurement Step:** Never ship a trouser without customer measurement confirmation.
+- **The EDB License:** Ensure you can legally export before the first order arrives.

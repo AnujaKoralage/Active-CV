@@ -38,59 +38,56 @@ To ensure 1.0 AQL (Acceptable Quality Level), we focus on only two silhouettes f
 
 ### 1. The Sovereign Shirt
 *   **Material:** 100% High-GSM Cotton Poplin (80/2 or 100/2 yarn).
-*   **Technical Specs:**
-    *   Minimum 18 Stitches Per Inch (SPI).
-    *   French Seams throughout (no raw edges).
-    *   Reinforced English Spread collar stands.
-    *   Mother of Pearl buttons.
+*   **Technical Specs:** 18 SPI, French Seams, Mother of Pearl buttons.
 *   **Colorway:** Optical White / Deep Navy.
 
 ### 2. The Archival Trouser
 *   **Material:** Tropical Wool Blend or Heavy Cotton Gabardine.
-*   **Technical Specs:**
-    *   High-waisted, double-pleated front.
-    *   Traditional side adjusters (No belt loops).
-    *   "After-dinner" split in the rear waistband for comfort.
-    *   Genuine Horn buttons.
-*   **Colorway:** Charcoal / Forest Green / Black.
+*   **Technical Specs:** High-waisted, double-pleated, side adjusters, Horn buttons.
+*   **Colorway:** Charcoal / Black.
 
 ---
 
-## V. MANUFACTURING & OPERATIONS (SRI LANKA)
+## V. THE CARFAX DEFENSE LAYER (OPERATIONAL SECURITY)
 
-### Sourcing Strategy
-- **Fabric:** Utilize the "Pettah Protocol." Source export-quality deadstock from 2nd Cross Street wholesalers to access high-end Egyptian/Supima cotton at 30% of market cost.
-- **Trims:** Source high-quality interlinings and buttons from specialist suppliers in Maharagama.
+To prevent operational friction from bankrupting the brand, the following protocols are mandatory:
 
-### Production (The Boutique CMT Model)
-- **Partners:** Avoid mass-export factories. Partner with "Sampling Houses" or boutique CMT (Cut, Make, Trim) units in **Colombo, Maharagama, or Piliyandala**.
-- **The Deal:** Negotiate a premium "small-batch" rate for 50 units per style (100 total).
-- **Quality Control:** On-site inspection of the first 5 units. Any unit below 18 SPI is rejected.
+### 1. Logistics & The "Landed Cost" Protocol
+- **Courier Aggregators:** Avoid retail DHL/FedEx. Partner with Colombo-based logistics aggregators to secure bulk rates ($15–$25 USD per 1kg package).
+- **Duty Transparency:** Clearly state in the checkout and FAQ: *"Import duties and taxes are the responsibility of the buyer."* This prevents chargebacks on international orders.
+
+### 2. The "Virtual Tailor" (Fit Risk Mitigation)
+- **Problem:** Trousers have a high return rate. Returns to Sri Lanka are effectively impossible due to re-import taxes.
+- **Protocol:** Every order triggers a mandatory "Consultation Step." A Carfax team member DMs/Emails the customer to verify waist and inseam measurements before shipping. This adds "Luxury Friction" and reduces returns to near zero.
+
+### 3. Payment Gateway Strategy (Sri Lanka)
+- **Primary:** Use **PayHere** or **WebxPay** for Shopify integration to accept global USD transactions.
+- **Concierge Method:** Offer "Direct Bank Transfer" (Invoice) as an exclusive, high-touch option for regional clients.
+
+### 4. Legal & Export Compliance
+- **Registration:** Ensure Business Registration (BR) allows for export.
+- **EDB:** Register with the Sri Lanka Export Development Board (EDB) to facilitate smooth customs clearance for batch shipments at Bandaranaike International Airport.
 
 ---
 
-## VI. MARKETING & SALES STRATEGY
+## VI. MARKETING & SEEDING STRATEGY
 
-### The Cinematic Funnel (TikTok/IG/FB)
-- **Phase 1: Awareness (Weeks 1-4):** Behind-the-scenes of the "Old Church" asylum. Teasing the silhouette.
-- **Phase 2: Engagement (Weeks 5-8):** Release of Episode 1 & 2 of "Winter Note." Highlighting the fabric movement.
-- **Phase 3: Conversion (Week 10):** Release of Episode 3 ("The Dance"). The Shopify store opens simultaneously.
+### The "First 5" List (Social Proof)
+Set aside 5 shirts and 5 trousers (out of 100) for "Seeding."
+- **Targets:** Architects, Creative Directors, and Photographers in the region who embody the "Old Money" aesthetic.
+- **The Approach:** No "sponsored" requests. Gift them the product with a note: *"We made this with you in mind."* Organic social proof is more valuable than paid ads.
 
-### E-Commerce
-- **Platform:** Shopify (Minimalist "Dawn" or "Empire" theme).
-- **Pricing:**
-    - Sovereign Shirt: **$165 USD**
-    - Archival Trouser: **$195 USD**
-    - The Duo Bundle: **$330 USD**
+### The Unboxing Experience
+- **Scent Anchoring:** Lightly spray the tissue paper with a custom "Woody/Tobacco" fragrance. The olfactory experience anchors the luxury memory the moment the box is opened.
 
 ---
 
 ## VII. THE TECHNICAL EDGE: ORIGIN LEDGER
 
-Leveraging your IT background to create "Digital Luxury":
-- **QR Integration:** A discrete QR code on the care label.
-- **Transparency:** Shows the fabric’s origin, the name of the master tailor, and the specific "Winter Note" episode it featured in.
-- **Exclusivity:** Every piece is numbered (e.g., "01 of 50") in the ledger, increasing resale value and brand loyalty.
+Leveraging your IT background:
+- **QR Integration:** Discrete QR code on the care label.
+- **Transparency:** Shows fabric origin, master tailor name, and the specific "Winter Note" episode link.
+- **Exclusivity:** Every piece is numbered (e.g., "01 of 50") in the digital ledger.
 
 ---
 
@@ -98,27 +95,12 @@ Leveraging your IT background to create "Digital Luxury":
 
 | Category | Allocation (LKR) | Notes |
 | :--- | :--- | :--- |
-| **Fabric Sourcing** | 550,000 | Deadstock high-end cotton and wool. |
-| **CMT Labor** | 450,000 | Premium small-batch production. |
-| **Packaging & Trims** | 120,000 | Mother of Pearl buttons, luxury boxes. |
-| **Digital/Shopify** | 50,000 | Subscription and basic marketing apps. |
-| **Buffer/Logistics** | 30,000 | Shipping to first local customers. |
+| **Fabric Sourcing** | 500,000 | High-end deadstock. |
+| **CMT Labor** | 400,000 | Boutique small-batch. |
+| **Packaging & Trims** | 150,000 | MOP buttons, luxury boxes, custom scent. |
+| **Logistics & Legal** | 100,000 | EDB registration, aggregator deposit. |
+| **Digital/Buffer** | 50,000 | Shopify and buffer. |
 | **TOTAL** | **1,200,000** | |
-
-**Revenue Projection:** 100 units sold at average $180 USD (~54,000 LKR) = **5.4M LKR**.
-**ROI:** 4.5x return on initial capital.
-
----
-
-## IX. 10-WEEK "CARFAX SPRINT" ROADMAP
-
-- **Week 1-2:** Fabric sourcing in Pettah. Shortlist 3 CMT partners.
-- **Week 3:** First samples produced. Fitting with "Tim" model.
-- **Week 4:** Technical refinements. Production order signed.
-- **Week 5-7:** Main production run. Shopify site build.
-- **Week 8:** "Winter Note" Episode 1 Teaser. Product photography.
-- **Week 9:** Episode 2 Release. "Carfax Council" email list capture.
-- **Week 10:** THE DROP. Episode 3 Release. Store goes live.
 
 ---
 
