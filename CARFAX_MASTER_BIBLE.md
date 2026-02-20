@@ -14,9 +14,13 @@
    - [The "Missing 20%" Defense Layer](#the-missing-20-defense-layer)
 4. [The Comic Store: Merchandising & Synergy](#4-the-comic-store-merchandising--synergy)
 5. [Manufacturing & Sourcing (Sri Lanka)](#5-manufacturing--sourcing-sri-lanka)
-6. [The Technical Edge: Origin Ledger](#6-the-technical-edge-origin-ledger)
-7. [Financial Model (1.2M LKR)](#7-financial-model-12m-lkr)
-8. [10-Week Production Checklist](#8-10-week-production-checklist)
+6. [Sizing Strategy for Small-Batch Production](#6-sizing-strategy-for-small-batch-production)
+   - [The Golden Ratio (50-Unit Run)](#the-golden-ratio-50-unit-run)
+   - [Tailoring Flexibility & Fit Protocols](#tailoring-flexibility--fit-protocols)
+   - [Technical Size Charts](#technical-size-charts)
+7. [The Technical Edge: Origin Ledger](#7-the-technical-edge-origin-ledger)
+8. [Financial Model (1.2M LKR)](#8-financial-model-12m-lkr)
+9. [10-Week Production Checklist](#9-10-week-production-checklist)
 
 ---
 
@@ -109,7 +113,46 @@ The **Comic Store** serves as the auxiliary arm of the brand, catering to the fa
 
 ---
 
-## 6. THE TECHNICAL EDGE: ORIGIN LEDGER
+<div style="page-break-after: always;"></div>
+
+## 6. SIZING STRATEGY FOR SMALL-BATCH PRODUCTION
+
+For a production run of only 50 units per style, multiple sizes (S-XXL) create high inventory risk. We utilize a **"Centralized Distribution"** model.
+
+### The Golden Ratio (50-Unit Run)
+Based on average regional demographics for Masstige-Luxury:
+*   **Small:** 10 Units (20%)
+*   **Medium:** 20 Units (40%)
+*   **Large:** 15 Units (30%)
+*   **X-Large:** 5 Units (10%)
+
+### Tailoring Flexibility & Fit Protocols
+1.  **Side Adjusters (Trousers):** Our trousers use buckle side-adjusters instead of belt loops. This allows one size to comfortably fit a 2-inch range (e.g., a Size 32 can fit a 31-33).
+2.  **Tailoring Margins:** Instruct the CMT house to leave a **2-inch "Inlay"** in the back rise of the trousers and the side seams of the shirt. This allows a local tailor to "let out" the garment if the customer grows or needs a looser fit.
+3.  **The Virtual Tailor Hook:** During the DM/WhatsApp verification, if a customer is "between sizes," recommend the larger size and remind them of the tailoring margin.
+
+### Technical Size Charts
+
+#### The Sovereign Shirt (Slim-Classic Fit)
+| Size | Neck (In) | Chest (In) | Shoulder (In) | Sleeve (In) |
+| :--- | :--- | :--- | :--- | :--- |
+| **S** | 14.5 | 38 | 17.5 | 25 |
+| **M** | 15.5 | 40 | 18.5 | 25.5 |
+| **L** | 16.5 | 43 | 19.5 | 26 |
+| **XL** | 17.5 | 46 | 20.5 | 26.5 |
+
+#### The Archival Trouser (High-Waist / Tapered)
+| Size | Waist Range (In) | Seat (In) | Thigh (In) | Leg Opening (In) |
+| :--- | :--- | :--- | :--- | :--- |
+| **S (30)** | 29 - 31 | 38 | 24 | 7.2 |
+| **M (32)** | 31 - 33 | 40 | 25 | 7.5 |
+| **L (34)** | 33 - 35 | 42 | 26 | 7.8 |
+| **XL (36)**| 35 - 37 | 44 | 27 | 8.0 |
+*Note: Inseam is left "Unfinished" at 34 inches. This is standard in luxury tailoring; the customer must have them hemmed to their exact length.*
+
+---
+
+## 7. THE TECHNICAL EDGE: ORIGIN LEDGER
 
 Every garment includes a discrete QR code on the care label:
 - **Transparency:** Links to a page showing the fabric origin, the tailor's name, and the specific scene in "Winter Note" where the design appeared.
@@ -117,7 +160,7 @@ Every garment includes a discrete QR code on the care label:
 
 ---
 
-## 7. FINANCIAL MODEL (1.2M LKR)
+## 8. FINANCIAL MODEL (1.2M LKR)
 
 | Item | Allocation (LKR) | Notes |
 | :--- | :--- | :--- |
@@ -131,7 +174,7 @@ Every garment includes a discrete QR code on the care label:
 
 <div style="page-break-after: always;"></div>
 
-## 8. 10-WEEK PRODUCTION CHECKLIST
+## 9. 10-WEEK PRODUCTION CHECKLIST
 
 *   **Week 1:** Fabric hunt in Pettah; Register BR & EDB.
 *   **Week 2:** Negotiate courier aggregator rates; Finalize Tech Packs.
