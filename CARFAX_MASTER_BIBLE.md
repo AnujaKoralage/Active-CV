@@ -15,11 +15,10 @@
 4. [The Comic Store: Merchandising & Synergy](#4-the-comic-store-merchandising--synergy)
 5. [Manufacturing & Sourcing (Sri Lanka)](#5-manufacturing--sourcing-sri-lanka)
 6. [Sizing Strategy for Small-Batch Production](#6-sizing-strategy-for-small-batch-production)
-   - [The Golden Ratio (50-Unit Run)](#the-golden-ratio-50-unit-run)
-   - [Tailoring Flexibility & Fit Protocols](#tailoring-flexibility--fit-protocols)
-   - [Technical Size Charts](#technical-size-charts)
 7. [The Technical Edge: Origin Ledger](#7-the-technical-edge-origin-ledger)
-8. [Financial Model (1.2M LKR)](#8-financial-model-12m-lkr)
+8. [Financial Model & Investor Pitch](#8-financial-model--investor-pitch)
+   - [The 1.2M LKR Bootstrap Model](#the-12m-lkr-bootstrap-model)
+   - [The Investor Opportunity (Scaling to 15 Silhouettes)](#the-investor-opportunity-scaling-to-15-silhouettes)
 9. [10-Week Production Checklist](#9-10-week-production-checklist)
 
 ---
@@ -102,14 +101,14 @@ For the first drop, Carfax focuses on two silhouettes to ensure 1.0 AQL quality:
 
 The **Comic Store** serves as the auxiliary arm of the brand, catering to the fantasy elements of the "Winter Note" universe.
 - **Product Lines:** Replicas of character wands (Tim/Saraya) and aesthetic jewelry (rings, amulets) featured in the episodes.
-- **Role:** Lower price-point entry for fans of the series, creating a separate but synergistic revenue stream while Carfax maintains the high-fashion core.
+- **Role:** Lower price-point entry for fans of the series, creating a separate but synergistic revenue stream.
 
 ---
 
 ## 5. MANUFACTURING & SOURCING (SRI LANKA)
 
 - **Fabric:** Sourced from Pettah (2nd Cross Street) wholesalers—specifically looking for export-quality cotton/wool deadstock.
-- **Labor:** Boutique CMT units in Maharagama or Piliyandala. Demand 18 SPI (Stitches Per Inch) as the mandatory quality threshold.
+- **Labor:** Boutique CMT units in Maharagama or Piliyandala. Demand 18 SPI (Stitches Per Inch).
 
 ---
 
@@ -117,58 +116,43 @@ The **Comic Store** serves as the auxiliary arm of the brand, catering to the fa
 
 ## 6. SIZING STRATEGY FOR SMALL-BATCH PRODUCTION
 
-For a production run of only 50 units per style, multiple sizes (S-XXL) create high inventory risk. We utilize a **"Centralized Distribution"** model.
-
 ### The Golden Ratio (50-Unit Run)
-Based on average regional demographics for Masstige-Luxury:
-*   **Small:** 10 Units (20%)
-*   **Medium:** 20 Units (40%)
-*   **Large:** 15 Units (30%)
-*   **X-Large:** 5 Units (10%)
+*   Small: 10 Units | Medium: 20 Units | Large: 15 Units | XL: 5 Units.
 
-### Tailoring Flexibility & Fit Protocols
-1.  **Side Adjusters (Trousers):** Our trousers use buckle side-adjusters instead of belt loops. This allows one size to comfortably fit a 2-inch range (e.g., a Size 32 can fit a 31-33).
-2.  **Tailoring Margins:** Instruct the CMT house to leave a **2-inch "Inlay"** in the back rise of the trousers and the side seams of the shirt. This allows a local tailor to "let out" the garment if the customer grows or needs a looser fit.
-3.  **The Virtual Tailor Hook:** During the DM/WhatsApp verification, if a customer is "between sizes," recommend the larger size and remind them of the tailoring margin.
-
-### Technical Size Charts
-
-#### The Sovereign Shirt (Slim-Classic Fit)
-| Size | Neck (In) | Chest (In) | Shoulder (In) | Sleeve (In) |
-| :--- | :--- | :--- | :--- | :--- |
-| **S** | 14.5 | 38 | 17.5 | 25 |
-| **M** | 15.5 | 40 | 18.5 | 25.5 |
-| **L** | 16.5 | 43 | 19.5 | 26 |
-| **XL** | 17.5 | 46 | 20.5 | 26.5 |
-
-#### The Archival Trouser (High-Waist / Tapered)
-| Size | Waist Range (In) | Seat (In) | Thigh (In) | Leg Opening (In) |
-| :--- | :--- | :--- | :--- | :--- |
-| **S (30)** | 29 - 31 | 38 | 24 | 7.2 |
-| **M (32)** | 31 - 33 | 40 | 25 | 7.5 |
-| **L (34)** | 33 - 35 | 42 | 26 | 7.8 |
-| **XL (36)**| 35 - 37 | 44 | 27 | 8.0 |
-*Note: Inseam is left "Unfinished" at 34 inches. This is standard in luxury tailoring; the customer must have them hemmed to their exact length.*
+### Tailoring Flexibility
+1.  **Side Adjusters:** Allows a 2-inch range of fit per size.
+2.  **Tailoring Margins:** 2-inch "Inlay" left in seams for local adjustments.
+3.  **Unfinished Hems:** Standard 34" inseam to be hemmed by the customer.
 
 ---
 
 ## 7. THE TECHNICAL EDGE: ORIGIN LEDGER
 
-Every garment includes a discrete QR code on the care label:
-- **Transparency:** Links to a page showing the fabric origin, the tailor's name, and the specific scene in "Winter Note" where the design appeared.
-- **Exclusivity:** Assigns a digital serial number (e.g., "01 of 50") to the physical piece.
+Every garment includes a discrete QR code on the care label linking to its digital birth certificate, showing provenance, artisan name, and narrative context.
 
 ---
 
-## 8. FINANCIAL MODEL (1.2M LKR)
+## 8. FINANCIAL MODEL & INVESTOR PITCH
 
-| Item | Allocation (LKR) | Notes |
+### The 1.2M LKR Bootstrap Model
+| Category | Allocation (LKR) | Notes |
 | :--- | :--- | :--- |
 | **Fabric** | 500,000 | Deadstock Luxury Grade. |
 | **CMT Labor** | 400,000 | Small-batch premium rates. |
 | **Packaging/Scent**| 150,000 | Boxes, buttons, signature fragrance. |
 | **Legal/Logistics**| 100,000 | EDB registration & courier deposits. |
 | **Digital** | 50,000 | Shopify & Origin Ledger hosting. |
+
+### The Investor Opportunity (Scaling to 15 Silhouettes)
+While we are launching with the "Sovereign Duo," our technical archive contains **15 complete silhouettes** (Tech Packs ready).
+
+**The Ask:** We are seeking strategic investment to:
+1.  **Unlock the Full Collection:** Move from 2 to 15 silhouettes immediately.
+2.  **Scale Content:** Increase production value for subsequent "Winter Note" seasons.
+3.  **Fulfillment Hubs:** Establish bonded warehouses in Singapore/Dubai for global 3-day delivery.
+
+**In-Video CTA Protocol:**
+Prompts will be integrated into the "Winter Note" credits and hidden asylum "Easter Eggs" (e.g., a cryptic link: `carfax.com/protocol`) to filter for high-net-worth investors who resonate with the "Artisan Republic" mythology.
 
 ---
 
@@ -179,7 +163,7 @@ Every garment includes a discrete QR code on the care label:
 *   **Week 1:** Fabric hunt in Pettah; Register BR & EDB.
 *   **Week 2:** Negotiate courier aggregator rates; Finalize Tech Packs.
 *   **Week 3:** First Samples produced; Fitting with "Tim" model.
-*   **Week 4:** PPS (Pre-Production Sample) sign-off; Draft Virtual Tailor flow.
+*   **Week 4:** PPS sign-off; Draft Virtual Tailor flow.
 *   **Week 5:** Production starts; Pay CMT deposit; Setup Shopify.
 *   **Week 6:** Print QR Care Labels; Select signature scent.
 *   **Week 7:** Mid-production inspection; Finalize "First 5" seeding list.
