@@ -1,0 +1,24 @@
+# Labeler configuration for Carfax Project
+
+documentation:
+  - '*.md'
+  - 'markdown/**/*'
+
+frontend:
+  - 'src/**/*'
+
+infrastructure:
+  - '.github/**/*'
+  - 'angular.json'
+  - 'package.json'
+  - 'package-lock.json'
+  - 'tsconfig.json'
+  - 'tsconfig.app.json'
+  - 'tsconfig.es5.json'
+  - 'tsconfig.spec.json'
+  - 'tslint.json'
+  - '.editorconfig'
+  - '.gitignore'
+  - 'browserslist'
+  - 'karma.conf.js'
+  - 'jenkinsfile'
