@@ -1,0 +1,14 @@
+[Unit]
+Description=Forex Bot Rescue Path B
+After=network.target
+
+[Service]
+User=forexuser
+WorkingDirectory=/home/forexuser/forex-bot
+EnvironmentFile=/home/forexuser/forex-bot/.env
+ExecStart=/usr/bin/python3 cli/run_live.py --config config/config.yaml
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

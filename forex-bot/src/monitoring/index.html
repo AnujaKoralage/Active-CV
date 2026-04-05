@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rescue Path B Dashboard</title>
+    <style>
+        body { font-family: sans-serif; background: #121212; color: #e0e0e0; margin: 2rem; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; }
+        .card { background: #1e1e1e; padding: 1rem; border-radius: 8px; border: 1px solid #333; }
+        .val { font-size: 1.5rem; font-weight: bold; color: #4caf50; }
+        .warn { color: #f44336; }
+        table { width: 100%; border-collapse: collapse; margin-top: 2rem; }
+        th, td { text-align: left; padding: 0.75rem; border-bottom: 1px solid #333; }
+        h1 { border-bottom: 2px solid #4caf50; padding-bottom: 0.5rem; }
+    </style>
+</head>
+<body>
+    <h1>Rescue Path B: Live Monitoring</h1>
+    <div class="grid">
+        <div class="card">
+            <div>Account Equity</div>
+            <div id="equity" class="val">$0.00</div>
+        </div>
+        <div class="card">
+            <div>Current P&L</div>
+            <div id="pnl" class="val">$0.00</div>
+        </div>
+        <div class="card">
+            <div>ADX (H1)</div>
+            <div id="adx" class="val">0.0</div>
+        </div>
+        <div class="card">
+            <div>Regime Gate</div>
+            <div id="is_gated" class="val">ACTIVE</div>
+        </div>
+    </div>
+
+    <h2>Open Positions (<span id="count">0</span>)</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Pair</th>
+                <th>Side</th>
+                <th>Lot</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody id="positions"></tbody>
+    </table>
+
+    <script>
+        async function update() {
+            const res = await fetch('/api/status');
+            const data = await res.json();
+            document.getElementById('equity').innerText = `$${data.equity.toFixed(2)}`;
+            document.getElementById('pnl').innerText = `$${data.pnl.toFixed(2)}`;
+            document.getElementById('adx').innerText = data.adx_h1.toFixed(1);
+            document.getElementById('is_gated').innerText = data.is_gated ? 'GATED' : 'OPEN';
+            document.getElementById('is_gated').className = data.is_gated ? 'val warn' : 'val';
+            document.getElementById('count').innerText = data.open_positions.length;
+
+            const tbody = document.getElementById('positions');
+            tbody.innerHTML = '';
+            data.open_positions.forEach(p => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td>${new Date(p.timestamp).toLocaleTimeString()}</td>
+                    <td>${p.pair}</td>
+                    <td>${p.side}</td>
+                    <td>${p.lot}</td>
+                    <td>${p.fill_price.toFixed(5)}</td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+        setInterval(update, 5000);
+        update();
+    </script>
+</body>
+</html>
