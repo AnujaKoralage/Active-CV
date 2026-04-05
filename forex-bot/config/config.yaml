@@ -1,0 +1,48 @@
+# Core Strategy Configuration: Rescue Path B
+
+# Presets: conservative (default), aggressive (paper only)
+presets:
+  conservative:
+    base_lot: 0.01
+    lot_multiplier: 0.8
+    max_adds: 3
+    portfolio_stop_pct: 0.05
+    sizing_mode: "fixed-fraction"
+    ema_band_k: 0.5
+    adx_threshold_entry: 30
+    adx_threshold_reenable: 25
+    max_hold_hours: 6
+    flatten_pre_rollover: true
+    min_capital_recommendation: 15000
+
+  aggressive:
+    base_lot: 0.02
+    lot_multiplier: 1.0
+    max_adds: 4
+    portfolio_stop_pct: 0.07
+    sizing_mode: "fixed-fraction"
+    ema_band_k: 0.4
+    adx_threshold_entry: 35
+    adx_threshold_reenable: 30
+    max_hold_hours: 8
+    flatten_pre_rollover: false
+    min_capital_recommendation: 30000
+
+# Active configuration (will be merged with preset)
+active_preset: "conservative"
+
+# Broker / Pair settings
+pair: "EUR_USD"
+timeframe_entry: "M5"
+timeframe_filter: "H1"
+pip_value: 10.0
+trailing_stop_atr_mult: 1.0
+pre_rollover_block_min: 60
+
+# Risk per-add settings (for atr-risk mode)
+risk_per_add_usd: 10.0
+
+# Monitoring / Alerts
+telegram_token: ""
+telegram_chat_id: ""
+dashboard_port: 8000
