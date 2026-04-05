@@ -74,12 +74,19 @@ def run_live(config_path: str, paper: bool = False):
                 current_tick = m1_data.iloc[-1]
                 engine.run_tick(current_tick, m5_data, h1_data)
 
+                # Calculate current P&L
+                current_equity = execution.get_account_equity()
+                # pnl = current_equity - initial_equity (not tracked here directly)
+                # For the dashboard, we show current cycle floating P&L or simple return
+                pnl = current_equity - (engine.initial_equity if engine.initial_equity > 0 else current_equity)
+
                 # Update Dashboard State
                 update_state({
-                    "equity": execution.get_account_equity(),
+                    "equity": current_equity,
+                    "pnl": pnl,
                     "open_positions": execution.get_open_positions(),
                     "is_gated": engine.is_gated,
-                    "adx_h1": engine._get_last_adx(h1_data) # Add helper to engine or status
+                    "adx_h1": engine._get_last_adx(h1_data)
                 })
 
             time.sleep(10) # Poll every 10 seconds for sandbox stability

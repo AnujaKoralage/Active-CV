@@ -17,7 +17,8 @@ def calculate_metrics(equity_series, risk_free_rate=0.0):
         return {}
 
     win_rate = len(returns[returns > 0]) / len(returns) if len(returns) > 0 else 0
-    sharpe = (returns.mean() - risk_free_rate) / returns.std() * np.sqrt(252 * 24 * 60) # Scaled for M1
+    std = returns.std()
+    sharpe = (returns.mean() - risk_free_rate) / std * np.sqrt(252 * 24 * 60) if std > 0 else 0.0
 
     # Max Drawdown
     peak = equity_series.expanding(min_periods=1).max()
@@ -47,7 +48,7 @@ def run_backtest(data_path: str, config_path: str, out_path: str):
     dl = DataLoader(data_path)
     m1_data = dl.load()
     m5_data = dl.get_resampled("5min")
-    h1_data = dl.get_resampled("1H")
+    h1_data = dl.get_resampled("1h")
 
     signal = EMAMomentumSignal()
     risk = RiskManager(config)
@@ -79,7 +80,7 @@ def run_backtest(data_path: str, config_path: str, out_path: str):
 
     full_output = {
         "metrics": metrics,
-        "equity_curve": equity_series.to_dict()
+        "equity_curve": {str(k): v for k, v in equity_series.to_dict().items()}
     }
 
     # Save results

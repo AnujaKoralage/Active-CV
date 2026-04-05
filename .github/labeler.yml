@@ -1,0 +1,17 @@
+# GitHub Labeler Configuration
+
+documentation:
+  - "*.md"
+  - "markdown/**/*"
+
+frontend:
+  - "src/**/*"
+
+infrastructure:
+  - ".github/**/*"
+  - "angular.json"
+  - "package.json"
+  - "tsconfig.json"
+
+forex-bot:
+  - "forex-bot/**/*"

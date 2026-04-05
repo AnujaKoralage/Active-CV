@@ -14,6 +14,10 @@ class EMAMomentumSignal(Signal):
         self.history: List[float] = [] # stores closes
 
     def on_bar(self, bar: pd.Series) -> None:
+        # Avoid duplicate bars based on timestamp
+        if self.bars and bar.name <= self.bars[-1].name:
+            return
+
         self.bars.append(bar)
         self.history.append(bar['close'])
         # Keep a buffer of at least ema_period * 2

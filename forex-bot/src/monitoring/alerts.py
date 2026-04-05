@@ -12,6 +12,7 @@ class AlertManager:
 
     def send_alert(self, message: str):
         logger.info(f"ALERT: {message}")
+        # Telegram
         if self.telegram_token and self.chat_id:
             try:
                 url = f"https://api.telegram.org/bot{self.telegram_token}/sendMessage"
@@ -20,6 +21,17 @@ class AlertManager:
                 resp.raise_for_status()
             except Exception as e:
                 logger.error(f"Error sending Telegram alert: {e}")
+
+        # Email placeholder
+        self.send_email("Forex Bot Alert", message)
+
+    def send_email(self, subject: str, body: str):
+        """
+        Placeholder for email alerts (e.g. via AWS SES or SMTP).
+        """
+        email_to = self.config.get("email_to")
+        if email_to:
+            logger.info(f"Email would be sent to {email_to}: {subject}")
 
     def notify_flatten(self, reason: str, pnl: float):
         msg = f"🔔 Cycle Flattened!\nReason: {reason}\nP&L: ${pnl:.2f}"
